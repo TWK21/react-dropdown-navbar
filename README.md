@@ -1,5 +1,5 @@
 ## Demo
-<img src="https://github.com/TWK21/react-dropdown-navbar/blob/main/public/react-dropdown-navbar-demo.mp4"/>
+<img src="https://github.com/TWK21/react-dropdown-navbar/blob/main/public/react-dropdown-navbar-demo.gif"/>
 
 ## Run it locally
 Clone this repo, run `npm install`, and `npm start`
