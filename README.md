@@ -1,3 +1,6 @@
+## Demo
+<img src="https://github.com/TWK21/react-dropdown-navbar/blob/main/public/react-dropdown-navbar-demo.mp4"/>
+
 ## Run it locally
 Clone this repo, run `npm install`, and `npm start`
   ```bash
